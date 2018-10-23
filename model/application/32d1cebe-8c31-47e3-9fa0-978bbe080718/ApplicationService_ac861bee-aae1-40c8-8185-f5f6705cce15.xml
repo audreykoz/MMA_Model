@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communication Software (Human to Human)"
+    id="ac861bee-aae1-40c8-8185-f5f6705cce15"
+    documentation="This supports phone conference and video conferencing, remote presentation and collaboration, and also physical meetings"/>

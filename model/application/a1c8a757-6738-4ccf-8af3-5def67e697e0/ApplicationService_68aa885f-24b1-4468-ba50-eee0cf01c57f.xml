@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federated Authenication "
+    id="68aa885f-24b1-4468-ba50-eee0cf01c57f"
+    documentation="A set of cridentials that interoperate between a set of facilities, which identifies a specific individual, e.g. SCI login "/>

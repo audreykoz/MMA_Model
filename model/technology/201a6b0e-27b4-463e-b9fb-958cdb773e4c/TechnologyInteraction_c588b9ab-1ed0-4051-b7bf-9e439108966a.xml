@@ -1,0 +1,5 @@
+<archimate:TechnologyInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integration with Authentication System"
+    id="c588b9ab-1ed0-4051-b7bf-9e439108966a"
+    documentation="Storage system respects the federated authorization and authentication system"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federated Authorization"
+    id="32ba6086-fe2a-4e19-a69a-ed2a8419c94d"
+    documentation="A set of permissions assigned to a federated identity e.g. SCI tokens "/>
